@@ -29,3 +29,7 @@ novelfire.net##.box-notification a:style(color: #2563eb !important;)
 novelfire.net##.text-center.box-notice
 novelfire.net###chapter-container > div.nf-ads.mb-3:nth-of-type(1)
 novelfire.net###content > div.nf-ads.mb-3:nth-of-type(1)
+novelfire.net##.report-container.mt-3
+novelfire.net##.wrapper.skiptranslate
+novelfire.net##.cmt.content-wrap.pt-3.pb-1.py-lg-0
+novelfire.net##footer
