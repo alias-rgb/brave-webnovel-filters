@@ -27,7 +27,11 @@ https://raw.githubusercontent.com/alias-rgb/brave-webnovel-filters/main/freewebn
 ```
 
 ```text
-https://raw.githubusercontent.com/alias-rgb/brave-webnovel-filters/main/novelfire.txt
+https://raw.githubusercontent.com/alias-rgb/brave-webnovel-filters/main/novelfire-darkmode.txt
+```
+
+```text
+https://raw.githubusercontent.com/alias-rgb/brave-webnovel-filters/main/novelfire-lightmode.txt
 ```
 
 OR
