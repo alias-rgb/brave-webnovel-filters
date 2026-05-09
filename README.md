@@ -1,36 +1,9 @@
-Here’s a cleaner and more professional README rewrite for your repo:
-
----
-
 # Brave Android Custom Filters for Web Novel Sites
 
 Custom Brave Shields filters designed to improve the reading experience on mobile browsers for:
 
 * `novelfire.net`
 * `freewebnovel.com`
-
-These filters focus on:
-
-* cleaner layouts
-* removing distractions
-* hiding intrusive UI elements
-* improving readability on Android
-
-## Features
-
-### Novelfire
-
-* Removes cluttered UI components
-* Hides unnecessary side elements
-* Improves chapter reading layout
-* Makes mobile reading smoother
-
-### FreeWebNovel
-
-* Cleans up visual distractions
-* Removes intrusive sections
-* Optimizes spacing and readability
-* Better fullscreen reading experience
 
 ## Installation
 
@@ -100,33 +73,3 @@ Feel free to:
 
 These filters are intended only to improve page readability and user experience.
 All content belongs to their respective website owners.
-
----
-
-You should also rename the repo to something clean like:
-
-```text id="v2q17y"
-brave-webnovel-filters
-```
-
-or
-
-```text id="rr4dhq"
-android-reading-filters
-```
-
-or
-
-```text id="qdfx64"
-brave-novel-cleanup
-```
-
-And add topics/tags on GitHub:
-
-* brave-browser
-* ublock-origin
-* adblock-filters
-* android
-* webnovel
-* css-filters
-* brave-shields
