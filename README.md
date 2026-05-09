@@ -69,19 +69,14 @@ freewebnovel.txt
 ### Novelfire
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6d93caa-892f-4c05-bf11-829c07158711" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c1464ddc-df2d-47cb-be78-93a97cb48914" width="300"/>
 </p>
 
 ### FreeWebNovel
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/473826b4-2d8e-40f4-baff-88a34bdfe040" width="300"/>
-</p>
-
-### Reading Layout Example
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c1464ddc-df2d-47cb-be78-93a97cb48914" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e6d93caa-892f-4c05-bf11-829c07158711" width="300"/>
 </p>
 
 ## Notes
