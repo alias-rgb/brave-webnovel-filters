@@ -20,7 +20,15 @@ Settings → Shields → Content Filtering
 Add custom filter list
 ```
 
-4. Paste the raw GitHub URL of the filter list
+4. Paste one of the following raw GitHub URLs into Brave:
+
+```text
+https://raw.githubusercontent.com/alias-rgb/brave-webnovel-filters/main/freewebnovel.txt
+```
+
+```text
+https://raw.githubusercontent.com/alias-rgb/brave-webnovel-filters/main/novelfire.txt
+```
 
 OR
 
