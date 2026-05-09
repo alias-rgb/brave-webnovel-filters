@@ -1,0 +1,27 @@
+novelfire.net##.box-notification.mb-3.pt-2
+novelfire.net##.d-pc-hidden.d-mobile-block.box-notification.text-center.mb-3
+novelfire.net##body:style(background-color: #0d0f12 !important; color: #e6e6e6 !important; max-width: 100% !important; padding: 0 !important;)
+novelfire.net##p:style(font-family: "Lora", "Merriweather", "Georgia", serif !important; font-style: italic !important; font-weight: 400 !important; letter-spacing: 0.2px !important; text-align: justify !important; color: #e6e6e6 !important;)
+novelfire.net##div:style(font-family: "Lora", "Merriweather", "Georgia", serif !important; color: #e6e6e6 !important;)
+novelfire.net##.chapter-content:style(max-width: 720px !important; margin: 0 auto !important; padding: 20px 24px !important; background-color: #0d0f12 !important;)
+novelfire.net##h1, h2, h3:style(font-family: "Lora", "Merriweather", "Georgia", serif !important; color: #f0f0f0 !important; font-weight: 600 !important;)
+novelfire.net##a:style(color: #6b9bd1 !important; text-decoration: none !important;)
+novelfire.net##.ads, .advertisement, [class*="ad-"], [id*="ad-"]:style(display: none !important;)
+novelfire.net##img[src*="giphy"]:style(display: none !important;)
+novelfire.net##nav, header, footer:style(background-color: #0d0f12 !important; border-color: #1a1d24 !important;)
+novelfire.net##button:style(background-color: #1a1d24 !important; color: #e6e6e6 !important; border-color: #2a2d34 !important;)
+novelfire.net##.chapternav:style(background-color: #0d0f12 !important; display: flex !important; justify-content: center !important; align-items: center !important; padding: 16px !important;)
+novelfire.net##.chapternav select:style(background-color: #1a1d24 !important; color: #e6e6e6 !important; border: 1px solid #2a2d34 !important;)
+novelfire.net##.chapternav .button:style(background-color: #1a1d24 !important; color: #e6e6e6 !important; border: 1px solid #2a2d34 !important;)
+novelfire.net##.chapternav a.button:style(background-color: #1a1d24 !important; color: #e6e6e6 !important;)
+novelfire.net##.select2-container:style(background-color: #1a1d24 !important;)
+novelfire.net##.select2-selection:style(background-color: #1a1d24 !important; border-color: #2a2d34 !important;)
+novelfire.net##.text-center.box-notice
+novelfire.net###chapter-container > div.nf-ads.mb-3:nth-of-type(1)
+novelfire.net###content > div.nf-ads.mb-3:nth-of-type(1)
+novelfire.net##.d-pc-hidden.box-notification.text-center.mb-3
+novelfire.net##.report-container.mt-3
+novelfire.net##.col.logo.text-center
+novelfire.net##.cmt.content-wrap.pt-3.pb-1.py-lg-0
+novelfire.net##.wrapper.skiptranslate
+novelfire.net##footer

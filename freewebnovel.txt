@@ -1,0 +1,78 @@
+freewebnovel.com##.read-ads
+freewebnovel.com##.footer
+freewebnovel.com###goTop > .glyphicon.glyphicon-circle-arrow-up
+freewebnovel.com##.text-center
+freewebnovel.com##.head > .wp
+freewebnovel.com##.cur > .wp
+! Dark mode custom filters for freewebnovel.com
+! Based on actual HTML structure
+! Main HTML and body
+freewebnovel.com##html:style(background-color: #0a0a0a !important;)
+freewebnovel.com##body:style(background-color: #0a0a0a !important; color: #f0f0f0 !important;)
+! Main content area with inline style - MOST IMPORTANT
+freewebnovel.com##.main:style(background: #0a0a0a !important;)
+freewebnovel.com###main1:style(background: #0a0a0a !important;)
+! Reading area wrapper
+freewebnovel.com##.m-read:style(background-color: #121212 !important;)
+freewebnovel.com##.wp:style(background-color: transparent !important;)
+! Chapter content text area - the actual reading area
+freewebnovel.com##.txt:style(background-color: #121212 !important; color: #f0f0f0 !important;)
+! Article content
+freewebnovel.com###article:style(background-color: transparent !important;)
+! Paragraphs with shiny text effect
+freewebnovel.com##.txt p:style(color: #f0f0f0 !important; text-shadow: 0 0 1px rgba(255, 255, 255, 0.3) !important; background-color: transparent !important;)
+[09-05-2026 11:04 AM] Alias Boy: ! Top section with title
+freewebnovel.com##.top:style(background-color: #1a1a1a !important; color: #e8e8e8 !important;)
+freewebnovel.com##.tit a:style(color: #6366f1 !important; text-shadow: 0 0 2px rgba(99, 102, 241, 0.4) !important;)
+freewebnovel.com##.chapter:style(color: #e8e8e8 !important;)
+! Headers with shiny effect
+freewebnovel.com##h1:style(color: #ffffff !important; text-shadow: 0 0 2px rgba(255, 255, 255, 0.4) !important; background-color: transparent !important;)
+freewebnovel.com##h2:style(color: #ffffff !important; text-shadow: 0 0 2px rgba(255, 255, 255, 0.4) !important; background-color: transparent !important;)
+freewebnovel.com##h3:style(color: #ffffff !important; text-shadow: 0 0 2px rgba(255, 255, 255, 0.4) !important; background-color: transparent !important;)
+! Links - lighter blue for dark mode
+freewebnovel.com##a:style(color: #8fcdff !important; text-shadow: 0 0 1px rgba(143, 205, 255, 0.3) !important;)
+! Navigation buttons (ul-list7) - changed from blue to dark gray
+freewebnovel.com##.ul-list7:style(background-color: #1a1a1a !important;)
+freewebnovel.com##.ul-list7 li:style(background-color: transparent !important;)
+freewebnovel.com##.ul-list7 a:style(background-color: #2a2a2a !important; color: #e8e8e8 !important; border-color: #3a3a3a !important;)
+! Header area
+freewebnovel.com##.header:style(background-color: #1a1a1a !important; border-color: #2a2a2a !important;)
+freewebnovel.com##.head:style(background-color: #1a1a1a !important;)
+freewebnovel.com##.head-pc:style(background-color: transparent !important;)
+! Navigation menus
+freewebnovel.com##.ul-nav:style(background-color: transparent !important;)
+freewebnovel.com##.m-dl:style(background-color: #1a1a1a !important; color: #e8e8e8 !important;)
+! Breadcrumb (cur)
+freewebnovel.com##.cur:style(background-color: #1a1a1a !important; color: #e8e8e8 !important;)
+! Footer
+freewebnovel.com##.footer:style(background-color: #0f0f0f !important; color: #e8e8e8 !important;)
+! Buttons and controls - changed from blue to dark gray
+freewebnovel.com##button:style(background-color: #2a2a2a !important; color: #e8e8e8 !important; border-color: #3a3a3a !important;)
+freewebnovel.com##.btn:style(background-color: #2a2a2a !important; color: #e8e8e8 !important;)
+! Input fields and selects
+freewebnovel.com##input:style(background-color: #1a1a1a !important; color: #e8e8e8 !important; border-color: #444 !important;)
+freewebnovel.com##select:style(background-color: #1a1a1a !important; color: #e8e8e8 !important; border-color: #444 !important;)
+freewebnovel.com##textarea:style(background-color: #1a1a1a !important; color: #e8e8e8 !important; border-color: #444 !important;)
+freewebnovel.com##.sel:style(background-color: #1a1a1a !important; color: #e8e8e8 !important;)
+! Font settings box
+freewebnovel.com##.font-box:style(background-color: #1a1a1a !important; color: #e8e8e8 !important;)
+freewebnovel.com##.catalog:style(background-color: #1a1a1a !important;)
+! Chapter navigation dropdown
+freewebnovel.com##.catalog select:style(background-color: #1a1a1a !important; color: #e8e8e8 !important;)
+! Comments section
+freewebnovel.com##.m-newest3:style(background-color: #1a1a1a !important; color: #e8e8e8 !important;)
+freewebnovel.com##.comment-box:style(background-color: #1a1a1a !important;)
+freewebnovel.com##.e-comment-list:style(background-color: transparent !important;)
+! Strong and emphasis tags
+freewebnovel.com##strong:style(color: #ffffff !important;)
+freewebnovel.com##u:style(color: #f0f0f0 !important;)
+! Divs in general
+freewebnovel.com##div:style(color: inherit !important;)
+! Span elements
+freewebnovel.com##span:style(color: inherit !important;)
+! Read ads sections
+freewebnovel.com##.read-ads:style(background-color: #1a1a1a !important;)
+! Hide light mode specific elements or make them dark
+[09-05-2026 11:04 AM] Alias Boy: freewebnovel.com##.light-switch:style(filter: invert(1) !important;)
+! Very dark gray borders on text content container (barely visible)
+freewebnovel.com##.txt:style(background-color: #121212 !important; color: #f0f0f0 !important; border-top: 1px solid #1a1a1a !important; border-bottom: 1px solid #1a1a1a !important;)
