@@ -50,6 +50,7 @@ freewebnovel.txt
 ### Novelfire
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/5d0bae6e-5c9c-489e-adb0-1b4faa38c8c0" width="300"/>
   <img src="https://github.com/user-attachments/assets/c1464ddc-df2d-47cb-be78-93a97cb48914" width="300"/>
 </p>
 
